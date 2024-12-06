@@ -35,4 +35,9 @@ public class GetKey {
 
         return hexString.toString();
     }
+
+    public static String get_@ulogId(){};
+    public static String get_sessionId(){};
+    public static String get_NeloInstallID(){};
+
 }
